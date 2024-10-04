@@ -5,7 +5,6 @@ basic認証に対応しています。
 ライブラリをインストールしてご利用ください。
 ```
 pip install websockets
-
 ```
 
 Client<--TCP-->This Repository<--WebSocket-->WebSokify<--TCP-->Server
